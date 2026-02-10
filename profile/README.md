@@ -1,3 +1,15 @@
+# Project Status
+
+*Current development phase*
+
+**Status:** Design Phase  
+**Document Version:** 1.0
+
+### Interested in This Project?
+
+We're actively seeking collaborators, investors, and publishers who share our vision for innovative survival horror experiences.
+
+
 # Game Design Document
 
 > **A co-op survival FPS where every step forward comes at a price.**
